@@ -22,4 +22,9 @@ const MLModels: number[][] = [
 // putting values to these arrays
 superHeros.push("spiderman");
 heroPower.push(2);
-allUsers.push({ name: "", isActive: true });
+allUsers.push({ name: "Khan", isActive: true });
+
+console.log(superHeros)
+console.log(heroPower)
+console.log(MLModels)
+console.log(allUsers)
