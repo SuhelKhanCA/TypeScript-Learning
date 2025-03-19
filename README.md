@@ -65,6 +65,9 @@ npm install -g typescript
 
 # Install dependencies
 npm install
+
+# For compiling .ts to .js
+tsc fileName.ts
 ```
 
 ## Modules
@@ -76,7 +79,7 @@ npm install
 - [Error Handling](module1/03.ts)
 - [Common Mistakes](module1/04.ts)
 
-[View more modules...](./modules)
+[View more modules...](./module5)
 
 ## Resources
 
